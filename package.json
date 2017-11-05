@@ -1,0 +1,17 @@
+{
+  "name": "foxy-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "atom syntax a fox would love",
+  "keywords": [
+    "syntax",
+    "theme",
+    "fox",
+    "love"
+  ],
+  "repository": "https://github.com/ArT1x/foxy-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
