@@ -1,5 +1,5 @@
 {
-  "name": "foxy-syntax",
+  "name": "atom-foxy-syntax",
   "theme": "syntax",
   "version": "0.0.0",
   "description": "atom syntax a fox would love",
@@ -9,7 +9,7 @@
     "fox",
     "love"
   ],
-  "repository": "https://github.com/ArT1x/foxy-syntax",
+  "repository": "https://github.com/ArT1x/atom-foxy-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
